@@ -1,6 +1,16 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Testing Title",
+        "text": "So that it will post to db.json file",
+        "id": "13a48443-a388-4b95-ac6d-f20dfb04a591"
+    },
+    {
+        "title": "Go to the bank",
+        "text": "To deposit cash!",
+        "id": "baa10a91-4e11-4262-9d79-2a3d375b72ce"
     }
 ]
